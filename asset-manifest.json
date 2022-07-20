@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.41d8acff.css",
-    "main.js": "/portfolio/static/js/main.e1065b51.js",
+    "main.css": "/portfolio/static/css/main.3044254b.css",
+    "main.js": "/portfolio/static/js/main.4b1af860.js",
     "static/media/movie.jpg": "/portfolio/static/media/movie.05f234faad59e1a3bfc4.jpg",
     "static/media/drum.jpg": "/portfolio/static/media/drum.f741a51c1cff54243b7e.jpg",
     "static/media/weather.jpg": "/portfolio/static/media/weather.06e1aef37dc62802f2fe.jpg",
     "static/media/notes.jpg": "/portfolio/static/media/notes.b14f273a10ccb121b749.jpg",
     "static/media/stopwatch.jpg": "/portfolio/static/media/stopwatch.9d55a7ad031c10812b58.jpg",
-    "static/media/property.jpg": "/portfolio/static/media/property.a5f2264c6fb491185391.jpg",
     "static/media/music.jpg": "/portfolio/static/media/music.5187ca6fb3f1f5774251.jpg",
+    "static/media/profile.png": "/portfolio/static/media/profile.3d64dfa0892fbafae890.png",
     "static/media/imgfinder.jpg": "/portfolio/static/media/imgfinder.cfc1f8d57c861b8a813f.jpg",
     "static/media/count.jpg": "/portfolio/static/media/count.bee61ab5356149ccd240.jpg",
     "static/media/tictactoe.jpg": "/portfolio/static/media/tictactoe.752c76f350970491164b.jpg",
-    "static/media/profile.svg": "/portfolio/static/media/profile.4577c1d8e808ca69da44f266c85fe7e3.svg",
     "static/media/quotes.jpg": "/portfolio/static/media/quotes.91ca05d2d339257fad7b.jpg",
     "static/media/medsos.jpg": "/portfolio/static/media/medsos.de62e915e51d298b9db0.jpg",
     "static/media/netflix.jpg": "/portfolio/static/media/netflix.04729fde26b986955ae6.jpg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.860f9641628745c3b45d0ca04740b330.svg",
     "index.html": "/portfolio/index.html",
-    "main.41d8acff.css.map": "/portfolio/static/css/main.41d8acff.css.map",
-    "main.e1065b51.js.map": "/portfolio/static/js/main.e1065b51.js.map"
+    "main.3044254b.css.map": "/portfolio/static/css/main.3044254b.css.map",
+    "main.4b1af860.js.map": "/portfolio/static/js/main.4b1af860.js.map"
   },
   "entrypoints": [
-    "static/css/main.41d8acff.css",
-    "static/js/main.e1065b51.js"
+    "static/css/main.3044254b.css",
+    "static/js/main.4b1af860.js"
   ]
 }
